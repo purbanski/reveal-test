@@ -1,0 +1,21 @@
+= Reveal Test
+Doc Writer <urbanski.patrick@gmail.com>
+2016-05-06
+
+== Introduction
+
+[%step]
+* This is just a test.
+* This project does something.
+* We just haven't decided what that is yet.
+
+== Speaker Notes
+
+Press the `*s*` key to access speaker notes.
+
+[NOTE.speaker]
+--
+You've unlocked the super secret notes area.
+Neat huh?
+--
+
